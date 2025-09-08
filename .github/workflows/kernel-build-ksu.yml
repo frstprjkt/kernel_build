@@ -32,8 +32,8 @@ jobs:
           ksu: true
           ksu-skip-patch: true
           ksu-other: true
-          ksu-url: https://github.com/KernelSU-Next/KernelSU-Next
-          ksu-version: next
+          ksu-url: https://github.com/SukiSU-Ultra/SukiSU-Ultra
+          ksu-version: nongki
           aosp-gcc: true
           aosp-clang: true
           aosp-clang-version: r563880
